@@ -1,4 +1,3 @@
-# Welcome to My GitHub Page
 ## Data-Driven Solutions - Strategic Leadership - Supply Chain Innovation
 
 ### About Me
