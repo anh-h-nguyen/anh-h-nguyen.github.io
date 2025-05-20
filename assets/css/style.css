@@ -1,8 +1,16 @@
-/* Override Cayman colors */
-.page-header {
-  background-color: #004466; /* your preferred header color */
+body {
+  background-color: #f7f7f7;
 }
 
-.main-content {
-  color: #333; /* text color */
+#header {
+  background-color: #003366;
+  color: white;
+}
+
+.sidebar h1 {
+  color: white;
+}
+
+a {
+  color: #1e90ff;
 }
