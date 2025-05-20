@@ -1,27 +1,28 @@
 ---
 layout: default
+title: Anh Nguyen
 ---
 
 # Hi, I'm Anh Nguyen! 👋🏼
 
 ![My Profile Picture]({{ site.logo }})
 
-### {{ Data-Driven Solutions | Strategic Leadership | Supply Chain Innovation }}
+### {{ site.description }}
 
 ## If I had to sum myself up in 5 points...
-🚀 Results-driven leader with a strong foundation in data science, supply chain management, and strategic decision-making<br/>
-📦 9+ years of experience optimizing logistics, procurement, and demand planning for operational efficiency<br/>
-📊 Master’s in Data Science to bridge the gap between predictive modeling, machine learning, and real-world applications<br/>
-🔍 Passionate about innovation and driving supply chain optimization, business forecasting, and process automation<br/>
-⚙️ Exploring ways to turn data into intelligence, streamline operations, and build the future of smart business solutions<br/>
+🚀 Results-driven leader with a strong foundation in data science, supply chain management, and strategic decision-making  
+📦 9+ years of experience optimizing logistics, procurement, and demand planning for operational efficiency  
+📊 Master’s in Data Science to bridge the gap between predictive modeling, machine learning, and real-world applications  
+🔍 Passionate about innovation and driving supply chain optimization, business forecasting, and process automation  
+⚙️ Exploring ways to turn data into intelligence, streamline operations, and build the future of smart business solutions  
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 ## My Personal Leadership Philosophy 💭
-🤝 I foster a collaborative, inclusive, and results-driven team environment, emphasizing respect, integrity, and accountability<br/>
-🌱 I empower my team by providing the necessary tools, mentorship, and guidance to achieve their goals<br/>
-📚 I am committed to continual learning and development, ensuring that challenges are met with strategic, data-driven solutions, and that all team members feel valued and heard<br/>
+🤝 I foster a collaborative, inclusive, and results-driven team environment, emphasizing respect, integrity, and accountability  
+🌱 I empower my team by providing the necessary tools, mentorship, and guidance to achieve their goals  
+📚 I am committed to continual learning and development, ensuring that challenges are met with strategic, data-driven solutions, and that all team members feel valued and heard  
 
 ## My Projects 💻 
 - 📖 [Dictionary](https://github.com/anh-h-nguyen/dictionary)
