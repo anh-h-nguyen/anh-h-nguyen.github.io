@@ -1,3 +1,4 @@
+## If I had to sum myself up in 5 points...
 🚀 Results-driven leader with a strong foundation in data science, supply chain management, and strategic decision-making<br/>
 📦 9+ years of experience optimizing logistics, procurement, and demand planning for operational efficiency<br/>
 📊 Master’s in Data Science to bridge the gap between predictive modeling, machine learning, and real-world applications<br/>
