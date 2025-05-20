@@ -1,7 +1,7 @@
 title: Anh H Nguyen
 logo: /assets/img/anh.jpg
 description: Data-Driven Solutions · Strategic Leadership · Supply Chain Innovation
-theme: jekyll-theme-cayman
+theme: jekyll-theme-leap-day
 
 sass:
   style: compressed
