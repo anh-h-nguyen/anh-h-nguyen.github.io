@@ -4,6 +4,6 @@ layout: default
 
 # Hi, I'm Anh Nguyen! 👋🏼
 
-![Profile Image](/assets/img/anh.jpg)
+![My Profile Picture]({{ site.logo }})
 
 ### {{ Data-Driven Solutions - Strategic Leadership - Supply Chain Innovation }}
