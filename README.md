@@ -22,7 +22,7 @@ I am committed to continual learning and development, ensuring that challenges a
 - 🏨 [Hotel Recommender System](https://github.com/anh-h-nguyen/hotel-recommender-system)
 - 🏛️ [Data Visualizations on White House Visitor Logs](https://github.com/anh-h-nguyen/white-house-visitor-logs.git)
 - 🎰 [Lottery Number Subscription Service on PowerBI](https://github.com/anh-h-nguyen/lottery_number_subscription_service.git)
-- 🥘 [Recipe Recommender System ft. GenAI]
+- 🥘 [Recipe Recommender System ft. GenAI](https://github.com/anh-h-nguyen/recipe_recommender_system_ft_genai.git)
 - [Project from DSC680 Applied Data Science]
 - [Project from DSC680 Applied Data Science]
 
