@@ -1,0 +1,8 @@
+/* Override Cayman colors */
+.page-header {
+  background-color: #004466; /* your preferred header color */
+}
+
+.main-content {
+  color: #333; /* text color */
+}
