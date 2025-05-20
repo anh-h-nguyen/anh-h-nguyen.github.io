@@ -6,7 +6,7 @@ layout: default
 
 ![My Profile Picture]({{ site.logo }})
 
-### {{ Data-Driven Solutions - Strategic Leadership - Supply Chain Innovation }}
+### {{ Data-Driven Solutions | Strategic Leadership | Supply Chain Innovation }}
 
 ## If I had to sum myself up in 5 points...
 🚀 Results-driven leader with a strong foundation in data science, supply chain management, and strategic decision-making<br/>
