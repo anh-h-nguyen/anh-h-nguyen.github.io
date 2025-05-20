@@ -16,13 +16,13 @@ I am committed to continual learning and development, ensuring that challenges a
 
 ### 💻 Projects
 - 📖 [Dictionary](https://github.com/anh-h-nguyen/dictionary)
-- [Bored API]
-- [OpenWeather API]
+- 🥱 [Bored API](https://github.com/anh-h-nguyen/bored-api.git)
+- ⛅ [OpenWeather API](https://github.com/anh-h-nguyen/open-weather-api.git)
 - ✈️ [Airline Passenger Satisfaction Analysis](https://github.com/anh-h-nguyen/airline-passenger-satisfaction-analysis)
 - 🏨 [Hotel Recommender System](https://github.com/anh-h-nguyen/hotel-recommender-system)
-- [Data Visualizations on White House Visitor Logs]
-- [Lottery Number Subscription Service on PowerBI]
-- [Project from DSC670 Advanced Uses of Generative AI]
+- 🏛️ [Data Visualizations on White House Visitor Logs](https://github.com/anh-h-nguyen/white-house-visitor-logs.git)
+- 🎰 [Lottery Number Subscription Service on PowerBI](https://github.com/anh-h-nguyen/lottery_number_subscription_service.git)
+- 🥘 [Recipe Recommender System ft. GenAI]
 - [Project from DSC680 Applied Data Science]
 - [Project from DSC680 Applied Data Science]
 
