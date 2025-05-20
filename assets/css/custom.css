@@ -1,0 +1,25 @@
+body {
+  background-color: #f7f7f7;
+}
+
+#header {
+  background-color: #003366;
+  color: white;
+}
+
+.sidebar h1 {
+  color: white;
+}
+
+a {
+  color: #1e90ff;
+}
+
+#sidebar {
+  background-color: #002244;
+  color: white;
+}
+
+.sidebar a {
+  color: #f1f1f1;
+}
