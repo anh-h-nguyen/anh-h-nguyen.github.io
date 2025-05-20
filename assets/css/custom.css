@@ -1,25 +1,21 @@
 body {
-  background-color: #f7f7f7;
+  background-color: #ffffff;  /* White background */
 }
 
 #header {
-  background-color: #003366;
-  color: white;
-}
-
-.sidebar h1 {
-  color: white;
-}
-
-a {
-  color: #1e90ff;
+  background-color: #004225;  /* Dark green header */
+  color: #F2C811;             /* Yellow text in the header */
 }
 
 #sidebar {
-  background-color: #002244;
-  color: white;
+  background-color: #004225;  /* Dark green sidebar */
+  color: #F2C811;             /* Yellow text in sidebar */
 }
 
 .sidebar a {
-  color: #f1f1f1;
+  color: #F2C811;             /* Yellow links in sidebar */
+}
+
+a {
+  color: #F2C811;             /* Yellow links throughout the page */
 }
