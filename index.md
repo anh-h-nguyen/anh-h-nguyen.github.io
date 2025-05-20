@@ -1,15 +1,11 @@
 ---
 layout: default
-title: Anh Nguyen
+title: # Hi, I'm Anh Nguyen! 👋🏼
 ---
 
 <link rel="stylesheet" href="/assets/css/custom.css">
 
-# Hi, I'm Anh Nguyen! 👋🏼
-
 ![My Profile Picture]({{ site.logo }})
-
-### {{ site.description }}
 
 ## If I had to sum myself up in 5 points...
 🚀 Results-driven leader with a strong foundation in data science, supply chain management, and strategic decision-making  
@@ -18,8 +14,10 @@ title: Anh Nguyen
 🔍 Passionate about innovation and driving supply chain optimization, business forecasting, and process automation  
 ⚙️ Exploring ways to turn data into intelligence, streamline operations, and build the future of smart business solutions  
 
-## Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+## My (Itty Bitty but Growing) Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)  
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)  
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
 
 ## My Personal Leadership Philosophy 💭
 🤝 I foster a collaborative, inclusive, and results-driven team environment, emphasizing respect, integrity, and accountability  
