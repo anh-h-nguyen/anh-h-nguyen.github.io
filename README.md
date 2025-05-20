@@ -1,7 +1,7 @@
 ## Data-Driven Solutions - Strategic Leadership - Supply Chain Innovation
 
-### About Me
-I'm Anh Nguyen and am a results-driven leader with a strong foundation in data science, supply chain management, and strategic decision-making.
+### 👋🏼 Hi, I'm Anh Nguyen!
+I am a results-driven leader with a strong foundation in data science, supply chain management, and strategic decision-making.
 
 With over nine years of experience optimizing logistics, procurement, and demand planning, I thrive at the intersection of data-driven insights and operational efficiency.
 
