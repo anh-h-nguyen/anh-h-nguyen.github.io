@@ -3,6 +3,8 @@ layout: default
 title: Anh Nguyen
 ---
 
+<link rel="stylesheet" href="/assets/css/custom.css">
+
 # Hi, I'm Anh Nguyen! 👋🏼
 
 ![My Profile Picture]({{ site.logo }})
