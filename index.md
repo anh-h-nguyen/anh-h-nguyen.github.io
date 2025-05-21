@@ -10,7 +10,7 @@ title: Anh H Nguyen
 🔍 Passionate about innovation and driving supply chain optimization, business forecasting, and process automation<br/>
 ⚙️ Exploring ways to turn data into intelligence, streamline operations, and build the future of smart business solutions<br/>
 
-## Tech Stack 🥞
+## My Tech Stack 🥞
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
