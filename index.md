@@ -3,21 +3,21 @@ layout: default
 title: # Hi, I'm Anh Nguyen! 👋🏼
 ---
 
-<link rel="stylesheet" href="/assets/css/custom.css">
+## My Professional Edge ✨
+🚀 Results-driven leader with a strong foundation in data science, supply chain management, and strategic decision-making<br/>
+📦 9+ years of experience optimizing logistics, procurement, and demand planning for operational efficiency<br/>
+📊 Master’s in Data Science to bridge the gap between predictive modeling, machine learning, and real-world applications<br/>
+🔍 Passionate about innovation and driving supply chain optimization, business forecasting, and process automation<br/>
+⚙️ Exploring ways to turn data into intelligence, streamline operations, and build the future of smart business solutions<br/>
 
-![My Profile Picture]({{ site.logo }})
-
-## If I had to sum myself up in 5 points...
-🚀 Results-driven leader with a strong foundation in data science, supply chain management, and strategic decision-making  
-📦 9+ years of experience optimizing logistics, procurement, and demand planning for operational efficiency  
-📊 Master’s in Data Science to bridge the gap between predictive modeling, machine learning, and real-world applications  
-🔍 Passionate about innovation and driving supply chain optimization, business forecasting, and process automation  
-⚙️ Exploring ways to turn data into intelligence, streamline operations, and build the future of smart business solutions  
-
-## My (Itty Bitty but Growing) Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)  
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)  
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+## Tech Stack 🥞
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
 ## My Personal Leadership Philosophy 💭
 🤝 I foster a collaborative, inclusive, and results-driven team environment, emphasizing respect, integrity, and accountability  
