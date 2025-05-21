@@ -1,11 +1,11 @@
-## If I had to sum myself up in 5 points...
+## My Professional Edge ✨
 🚀 Results-driven leader with a strong foundation in data science, supply chain management, and strategic decision-making<br/>
 📦 9+ years of experience optimizing logistics, procurement, and demand planning for operational efficiency<br/>
 📊 Master’s in Data Science to bridge the gap between predictive modeling, machine learning, and real-world applications<br/>
 🔍 Passionate about innovation and driving supply chain optimization, business forecasting, and process automation<br/>
 ⚙️ Exploring ways to turn data into intelligence, streamline operations, and build the future of smart business solutions<br/>
 
-## Tech Stack
+## Tech Stack 🥞
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 ## My Personal Leadership Philosophy 💭
