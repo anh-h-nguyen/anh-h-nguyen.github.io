@@ -1,6 +1,6 @@
 ---
 layout: default
-title: # Hi, I'm Anh Nguyen! 👋🏼
+title: Anh H Nguyen
 ---
 
 ## My Professional Edge ✨
