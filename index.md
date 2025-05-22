@@ -3,7 +3,7 @@ layout: default
 title: Anh H Nguyen
 ---
 
-![AnhNguyen](/assets/Anh.jpg)
+![AnhNguyen](/assets/Anh.jpg =250x250)
 
 ## My Professional Edge ✨
 - 🚀 Results-driven leader with a strong foundation in data science, supply chain management, and strategic decision-making<br/>
