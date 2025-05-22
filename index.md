@@ -3,14 +3,8 @@ layout: default
 title: Anh H Nguyen
 ---
 
-<!-- Profile Banner at the Top -->
-<header class="profile-banner">
-  <img src="/assets/Anh2.png" alt="Profile Picture">
-  <h1>Anh H Nguyen</h1>
-  <p>Data-Driven Solutions · Strategic Leadership · Supply Chain Innovation</p>
-</header>
+<div style="text-align: center;"><img src="/assets/Anh2.png" alt="My profile picture" style="width: 150px; border-radius: 50%;"></div>
 
-<!-- My Professional Edge Section -->
 <div style="text-align: center;">
   <h2>My Professional Edge ✨</h2>
 </div>
@@ -23,7 +17,6 @@ title: Anh H Nguyen
   <li>⚙️ Exploring ways to turn data into intelligence, streamline operations, and build the future of smart business solutions</li>
 </ul>
 
-<!-- Tech Stack Section -->
 <div style="text-align: center;">
   <h2>My Tech Stack 🥞</h2>
 </div>
@@ -40,7 +33,6 @@ title: Anh H Nguyen
   </p>
 </div>
 
-<!-- Leadership Philosophy Section -->
 <div style="text-align: center;">
   <h2>My Personal Leadership Philosophy 💭</h2>
 </div>
@@ -51,7 +43,6 @@ title: Anh H Nguyen
   <li>📚 I am committed to continual learning and development, ensuring that challenges are met with strategic, data-driven solutions, and that all team members feel valued and heard</li>
 </ul>
 
-<!-- Projects Section -->
 <div style="text-align: center;">
   <h2>My Projects 💻</h2>
 </div>
@@ -69,7 +60,6 @@ title: Anh H Nguyen
   <li>[Project2 from DSC680 Applied Data Science]</li>
 </ul>
 
-<!-- Connect Section -->
 <div style="text-align: center;">
   <h2>Let's Connect! 🤝</h2>
 </div>
