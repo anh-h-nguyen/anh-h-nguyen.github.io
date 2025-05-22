@@ -4,11 +4,11 @@ title: Anh H Nguyen
 ---
 
 ## My Professional Edge ✨
-🚀 Results-driven leader with a strong foundation in data science, supply chain management, and strategic decision-making<br/>
-📦 9+ years of experience optimizing logistics, procurement, and demand planning for operational efficiency<br/>
-📊 Master’s in Data Science to bridge the gap between predictive modeling, machine learning, and real-world applications<br/>
-🔍 Passionate about innovation and driving supply chain optimization, business forecasting, and process automation<br/>
-⚙️ Exploring ways to turn data into intelligence, streamline operations, and build the future of smart business solutions<br/>
+- 🚀 Results-driven leader with a strong foundation in data science, supply chain management, and strategic decision-making<br/>
+- 📦 9+ years of experience optimizing logistics, procurement, and demand planning for operational efficiency<br/>
+- 📊 Master’s in Data Science to bridge the gap between predictive modeling, machine learning, and real-world applications<br/>
+- 🔍 Passionate about innovation and driving supply chain optimization, business forecasting, and process automation<br/>
+- ⚙️ Exploring ways to turn data into intelligence, streamline operations, and build the future of smart business solutions<br/>
 
 ## My Tech Stack 🥞
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -20,9 +20,9 @@ title: Anh H Nguyen
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
 ## My Personal Leadership Philosophy 💭
-🤝 I foster a collaborative, inclusive, and results-driven team environment, emphasizing respect, integrity, and accountability  
-🌱 I empower my team by providing the necessary tools, mentorship, and guidance to achieve their goals  
-📚 I am committed to continual learning and development, ensuring that challenges are met with strategic, data-driven solutions, and that all team members feel valued and heard  
+- 🤝 I foster a collaborative, inclusive, and results-driven team environment, emphasizing respect, integrity, and accountability  
+- 🌱 I empower my team by providing the necessary tools, mentorship, and guidance to achieve their goals  
+- 📚 I am committed to continual learning and development, ensuring that challenges are met with strategic, data-driven solutions, and that all team members feel valued and heard  
 
 ## My Projects 💻 
 - 📖 [Dictionary](https://github.com/anh-h-nguyen/dictionary)
