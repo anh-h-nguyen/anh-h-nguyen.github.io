@@ -5,8 +5,6 @@ title: Anh H Nguyen
 
 <div style="text-align: center;">
   <img src="/assets/Anh2.png" alt="My profile picture" style="width: 150px; border-radius: 50%;">
-  <h1>Anh H Nguyen</h1>
-  <p>Data-Driven Solutions · Strategic Leadership · Supply Chain Innovation</p>
 </div>
 
 ## My Professional Edge ✨
