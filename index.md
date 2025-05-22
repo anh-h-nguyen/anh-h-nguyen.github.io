@@ -18,7 +18,6 @@ title: Anh H Nguyen
 
 <div style="text-align: center;">
   <h2>My Tech Stack 🥞</h2>
-</div>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
@@ -26,13 +25,18 @@ title: Anh H Nguyen
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+</div>
 
-## My Personal Leadership Philosophy 💭
+<div style="text-align: center;">
+  <h2>My Personal Leadership Philosophy 💭</h2>
 - 🤝 I foster a collaborative, inclusive, and results-driven team environment, emphasizing respect, integrity, and accountability  
 - 🌱 I empower my team by providing the necessary tools, mentorship, and guidance to achieve their goals  
 - 📚 I am committed to continual learning and development, ensuring that challenges are met with strategic, data-driven solutions, and that all team members feel valued and heard  
+</div>
 
-## My Projects 💻 
+<div style="text-align: center;">
+  <h2>My Projects 💻</h2>
+</div>
 - 📖 [Dictionary](https://github.com/anh-h-nguyen/dictionary)
 - 🥱 [Bored API](https://github.com/anh-h-nguyen/bored-api.git)
 - ⛅ [OpenWeather API](https://github.com/anh-h-nguyen/open-weather-api.git)
@@ -44,7 +48,9 @@ title: Anh H Nguyen
 - [Project from DSC680 Applied Data Science]
 - [Project from DSC680 Applied Data Science]
 
-## Lets connect! 🤝
+<div style="text-align: center;">
+  <h2>Lets connect! 🤝</h2>
+</div>
 - 📧 [Email](mailto:anhnguyen824@gmail.com)  
 - 🌍 [LinkedIn](https://linkedin.com/in/anhnguyen824)  
 - 🐙 [GitHub](https://github.com/anh-h-nguyen) 
