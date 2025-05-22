@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Anh H Nguyen
-![AnhNguyen](/assets/Anh.jpg)
+logo: ![AnhNguyen](/assets/Anh.jpg)
 ---
 
 ## My Professional Edge ✨
