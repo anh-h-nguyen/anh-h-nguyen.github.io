@@ -3,7 +3,7 @@ layout: default
 title: Anh H Nguyen
 ---
 
-![My profile picture](/assets/Anh2.jpg)
+![My profile picture](/assets/Anh2.png)
 
 ## My Professional Edge ✨
 - 🚀 Results-driven leader with a strong foundation in data science, supply chain management, and strategic decision-making<br/>
