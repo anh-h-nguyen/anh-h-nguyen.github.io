@@ -3,7 +3,11 @@ layout: default
 title: Anh H Nguyen
 ---
 
-![My profile picture](/assets/Anh2.png)
+<div style="text-align: center;">
+  <img src="/assets/Anh2.png" alt="My profile picture" style="width: 150px; border-radius: 50%;">
+  <h1>Anh H Nguyen</h1>
+  <p>Data-Driven Solutions · Strategic Leadership · Supply Chain Innovation</p>
+</div>
 
 ## My Professional Edge ✨
 - 🚀 Results-driven leader with a strong foundation in data science, supply chain management, and strategic decision-making<br/>
