@@ -1,12 +1,9 @@
 ---
 layout: default
 title: Anh H Nguyen
-
-https://raw.githubusercontent.com/anh-h-nguyen.github.io/assets/img/Anh.jpg
-
 ---
 
-
+(https://raw.githubusercontent.com/anh-h-nguyen.github.io/assets/img/Anh.jpg)
 
 ## My Professional Edge ✨
 🚀 Results-driven leader with a strong foundation in data science, supply chain management, and strategic decision-making<br/>
