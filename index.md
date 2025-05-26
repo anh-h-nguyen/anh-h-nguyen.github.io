@@ -6,7 +6,7 @@ title: Anh H Nguyen
 <div style="text-align: center;"><img src="/assets/Anh2.png" alt="My profile picture" style="width: 150px; border-radius: 50%;"></div>
 
 <div style="text-align: center;">
-  <h2>My Professional Edge ✨</h2>
+  <h2>My Competitive  Edge ✨</h2>
 </div>
 
 <ul>
@@ -71,38 +71,28 @@ title: Anh H Nguyen
     <strong>Senior Demand Planner | Demand Planner – Prepared Foods & Dispensed Beverages</strong><br>
     📍 Casey’s Store Support Center, Ankeny, IA<br>
     📆 Oct 2022 – Present<br>
-    - Spearheaded <strong>12+ new product launches</strong> across <strong>2,500+ stores</strong>, optimizing operational efficiency.<br>
-    - Designed <strong>strategies for a $600M business</strong>, reducing stockouts, improving inventory accuracy, and minimizing product substitutions.<br>
-    - Partnered with <strong>vendors & stakeholders</strong> to implement <strong>data-driven solutions</strong>, enhancing performance and business outcomes.<br>
-    - Developed <strong>key performance metrics</strong> using advanced analytics, identifying optimization opportunities and delivering <strong>actionable insights</strong>.<br>
-    - <strong>Refined forecasting, inventory management, and logistics SOPs</strong>, ensuring cost-effectiveness and efficiency.
+    - Led 12+ product launches across 2,700+ stores, optimized inventory strategies for a $600M business, reduced stockouts, improved forecasting accuracy, and collaborated with stakeholders to drive data-driven performance improvements.
   </li>
 
   <li>
     <strong>Buyer – Prepared Foods & Dispensed Beverages</strong><br>
     📍 Casey’s Store Support Center, Ankeny, IA<br>
     📆 Feb 2021 – Sept 2022<br>
-    - Managed inventory for a <strong>$400M business</strong>, reducing waste by <strong>20%</strong> with data-driven <strong>shelf-life tracking</strong>.<br>
-    - Led <strong>process optimization initiatives</strong>, enhancing order workflows and operational efficiency.<br>
-    - Provided <strong>training & mentorship</strong> for junior buyers, fostering a culture of <strong>continuous improvement</strong>.
+    - Managed inventory for a $400M business, developed a shelf-life tracking system, reduced waste by 20%, streamlined ordering processes, and mentored junior buyers for operational efficiency.
   </li>
 
   <li>
     <strong>Supply Chain Coordinator</strong><br>
     📍 Pet Parents, Ankeny, IA<br>
     📆 July 2020 – Jan 2021<br>
-    - Oversaw <strong>end-to-end supply chain operations</strong>, including <strong>vendor management, inventory optimization, and logistics coordination</strong>.<br>
-    - Developed <strong>warehouse optimization strategies</strong>, improving inventory placement and team efficiency.<br>
-    - Enhanced <strong>tracking and KPI analysis</strong>, strengthening resource accessibility and performance.
+    - Oversaw end-to-end supply chain operations, improved vendor performance, optimized warehouse logistics, and enhanced KPI tracking to strengthen inventory management and resource allocation.
   </li>
 
   <li>
-    <strong>Inventory Analyst & Associate Buyer – Kids Apparel</strong><br>
+    <strong>Associate Buyer | Inventory Analyst – Kids Apparel</strong><br>
     📍 Target Inc., Minneapolis, MN<br>
     📆 Aug 2016 – June 2020<br>
-    - Co-managed a <strong>$400M business</strong>, improving <strong>assortment strategy</strong> and market share growth.<br>
-    - Supported <strong>seasonal launches & digital expansion</strong> through analytical insights and process improvements.<br>
-    - <strong>Mentored junior analysts & buyers</strong>, strengthening team capabilities and operational advancements.
+    - Co-managed a $400M business, enhanced assortment strategy, supported seasonal launches, increased digital market share, and trained analysts and buyers on data-driven decision-making.
   </li>
 </ul>
 
@@ -115,11 +105,11 @@ title: Anh H Nguyen
   <li><a href="https://github.com/anh-h-nguyen/bored-api.git">Bored API</a></li>
   <li><a href="https://github.com/anh-h-nguyen/open-weather-api.git">OpenWeather API</a></li>
   <li><a href="https://github.com/anh-h-nguyen/airline-passenger-satisfaction-analysis">Airline Passenger Satisfaction Analysis</a></li>
+  <li><a href="https://github.com/anh-h-nguyen/movie-recommendation-system">Movie Recommendation System</a></li>
   <li><a href="https://github.com/anh-h-nguyen/hotel-recommendation-system">Hotel Recommendation System</a></li>
   <li><a href="https://github.com/anh-h-nguyen/white-house-visitor-logs.git">Data Visualizations on White House Visitor Logs</a></li>
   <li><a href="https://github.com/anh-h-nguyen/lottery_number_subscription_service.git">Lottery Number Subscription Service on PowerBI</a></li>
-  <li><a href="https://github.com/anh-h-nguyen/recipe_recommender_system_ft_genai.git">Recipe Recommender System ft. GenAI</a></li>
-  <li>[Project1 from DSC680 Applied Data Science]</li>
+  <li><a href="https://github.com/anh-h-nguyen/recipe_recommendation_system_ft_genai.git">Recipe Recommendation System ft. GenAI</a></li>
   <li>[Project2 from DSC680 Applied Data Science]</li>
 </ul>
 
