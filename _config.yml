@@ -1,6 +1,8 @@
 title: Anh H Nguyen
 description: Data-Driven Solutions · Strategic Leadership · Supply Chain Innovation
 theme: jekyll-theme-leap-day
+github:
+  repository_url: "https://github.com/anh-h-nguyen?tab=repositories"
 
 include:
   - assets/css
