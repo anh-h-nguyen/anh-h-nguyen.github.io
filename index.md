@@ -10,11 +10,11 @@ title: Anh H Nguyen
 </div>
 
 <ul>
-  <li>🚀 Results-driven leader with a strong foundation in data science, supply chain management, and strategic decision-making</li>
-  <li>📦 9+ years of experience optimizing logistics, procurement, and demand planning for operational efficiency</li>
-  <li>📊 Master’s in Data Science to bridge the gap between predictive modeling, machine learning, and real-world applications</li>
-  <li>🔍 Passionate about innovation and driving supply chain optimization, business forecasting, and process automation</li>
-  <li>⚙️ Exploring ways to turn data into intelligence, streamline operations, and build the future of smart business solutions</li>
+  <li>Results-driven leader with a strong foundation in data science, supply chain management, and strategic decision-making</li>
+  <li>9+ years of experience optimizing logistics, procurement, and demand planning for operational efficiency</li>
+  <li>Master’s in Data Science to bridge the gap between predictive modeling, machine learning, and real-world applications</li>
+  <li>Passionate about innovation and driving supply chain optimization, business forecasting, and process automation</li>
+  <li>Exploring ways to turn data into intelligence, streamline operations, and build the future of smart business solutions</li>
 </ul>
 
 <div style="text-align: center;">
@@ -38,10 +38,58 @@ title: Anh H Nguyen
 </div>
 
 <ul>
-  <li>🤝 I foster a collaborative, inclusive, and results-driven team environment, emphasizing respect, integrity, and accountability</li>
-  <li>🌱 I empower my team by providing the necessary tools, mentorship, and guidance to achieve their goals</li>
-  <li>📚 I am committed to continual learning and development, ensuring that challenges are met with strategic, data-driven solutions, and that all team members feel valued and heard</li>
+  <li>I foster a collaborative, inclusive, and results-driven team environment, emphasizing respect, integrity, and accountability</li>
+  <li>I empower my team by providing the necessary tools, mentorship, and guidance to achieve their goals</li>
+  <li>I am committed to continual learning and development, ensuring that challenges are met with strategic, data-driven solutions, and that all team members feel valued and heard</li>
 </ul>
+
+<div style="text-align: center;">
+  <h2>My Education Journey 🎓</h2>
+</div>
+
+### Master of Science in Data Science  
+**Bellevue University, Bellevue, NE**  
+Aug 2023 – June 2025  
+GPA: 4.00/4.00  
+
+### Bachelor of Science in Marketing  
+**Iowa State University, Ames, IA**  
+Aug 2012 – May 2016  
+GPA: 3.97/4.00  
+
+<div style="text-align: center;">
+  <h2>My Professional Adventures 🌎</h2>
+</div>
+
+### **Senior Demand Planner | Demand Planner – Prepared Foods & Dispensed Beverages**  
+📍 *Casey’s Store Support Center, Ankeny, IA*  
+📆 *Oct 2022 – Present*  
+- Spearheaded **12+ new product launches** across **2,500+ stores**, optimizing operational efficiency.  
+- Designed **strategies for a $600M business**, reducing stockouts, improving inventory accuracy, and minimizing product substitutions.  
+- Partnered with **vendors & stakeholders** to implement **data-driven solutions**, enhancing performance and business outcomes.  
+- Developed **key performance metrics** using advanced analytics, identifying optimization opportunities and delivering **actionable insights**.  
+- **Refined forecasting, inventory management, and logistics SOPs**, ensuring cost-effectiveness and efficiency.  
+
+### **Buyer – Prepared Foods & Dispensed Beverages**  
+📍 *Casey’s Store Support Center, Ankeny, IA*  
+📆 *Feb 2021 – Sept 2022*  
+- Managed inventory for a **$400M business**, reducing waste by **20%** with data-driven **shelf-life tracking**.  
+- Led **process optimization initiatives**, enhancing order workflows and operational efficiency.  
+- Provided **training & mentorship** for junior buyers, fostering a culture of **continuous improvement**.  
+
+### **Supply Chain Coordinator**  
+📍 *Pet Parents, Ankeny, IA*  
+📆 *July 2020 – Jan 2021*  
+- Oversaw **end-to-end supply chain operations**, including **vendor management, inventory optimization, and logistics coordination**.  
+- Developed **warehouse optimization strategies**, improving inventory placement and team efficiency.  
+- Enhanced **tracking and KPI analysis**, strengthening resource accessibility and performance.  
+
+### **Inventory Analyst & Associate Buyer – Kids Apparel**  
+📍 *Target Inc., Minneapolis, MN*  
+📆 *Aug 2016 – June 2020*  
+- Co-managed a **$400M business**, improving **assortment strategy** and market share growth.  
+- Supported **seasonal launches & digital expansion** through analytical insights and process improvements.  
+- **Mentored junior analysts & buyers**, strengthening team capabilities and operational advancements.  
 
 <div style="text-align: center;">
   <h2>My Projects 💻</h2>
