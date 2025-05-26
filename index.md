@@ -101,13 +101,13 @@ title: Anh H Nguyen
 </div>
 
 <ul>
-  <li><a href="https://github.com/anh-h-nguyen/dictionary">Dictionary</a></li>
-  <li><a href="https://github.com/anh-h-nguyen/bored-api.git">Bored API</a></li>
-  <li><a href="https://github.com/anh-h-nguyen/open-weather-api.git">OpenWeather API</a></li>
+  <li><a href="https://github.com/anh-h-nguyen/dictionary">Dictionary Tool</a></li>
+  <li><a href="https://github.com/anh-h-nguyen/bored-api.git">Bored API Connector</a></li>
+  <li><a href="https://github.com/anh-h-nguyen/open-weather-api.git">OpenWeather API Connector</a></li>
   <li><a href="https://github.com/anh-h-nguyen/airline-passenger-satisfaction-analysis">Airline Passenger Satisfaction Analysis</a></li>
   <li><a href="https://github.com/anh-h-nguyen/movie_recommendation_system">Movie Recommendation System</a></li>
   <li><a href="https://github.com/anh-h-nguyen/hotel-recommendation-system">Hotel Recommendation System</a></li>
-  <li><a href="https://github.com/anh-h-nguyen/white-house-visitor-logs.git">Data Visualizations on White House Visitor Logs</a></li>
+  <li><a href="https://github.com/anh-h-nguyen/white-house-visitor-logs.git">White House Visitor Departure Analysis</a></li>
   <li><a href="https://github.com/anh-h-nguyen/lottery_number_subscription_service.git">Lottery Number Subscription Service on PowerBI</a></li>
   <li><a href="https://github.com/anh-h-nguyen/recipe_recommendation_system_ft_genai.git">Recipe Recommendation System ft. GenAI</a></li>
   <li>[Project2 from DSC680 Applied Data Science]</li>
