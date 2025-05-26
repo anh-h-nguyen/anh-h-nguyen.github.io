@@ -38,58 +38,73 @@ title: Anh H Nguyen
 </div>
 
 <ul>
-  <li>I foster a collaborative, inclusive, and results-driven team environment, emphasizing respect, integrity, and accountability</li>
-  <li>I empower my team by providing the necessary tools, mentorship, and guidance to achieve their goals</li>
-  <li>I am committed to continual learning and development, ensuring that challenges are met with strategic, data-driven solutions, and that all team members feel valued and heard</li>
+  <li>I foster a collaborative, inclusive, and results-driven team environment, emphasizing respect, integrity, and accountability.</li>
+  <li>I empower my team by providing the necessary tools, mentorship, and guidance to achieve their goals.</li>
+  <li>I am committed to continual learning and development, ensuring challenges are met with strategic, data-driven solutions, and that all team members feel valued and heard.</li>
 </ul>
 
 <div style="text-align: center;">
   <h2>My Education Journey 🎓</h2>
 </div>
 
-### Master of Science in Data Science  
-**Bellevue University, Bellevue, NE**  
-Aug 2023 – June 2025  
-GPA: 4.00/4.00  
-
-### Bachelor of Science in Marketing  
-**Iowa State University, Ames, IA**  
-Aug 2012 – May 2016  
-GPA: 3.97/4.00  
+<ul>
+  <li>
+    <strong>Master of Science in Data Science</strong><br>
+    Bellevue University, Bellevue, NE<br>
+    Aug 2023 – June 2025<br>
+    GPA: 4.00/4.00
+  </li>
+  <li>
+    <strong>Bachelor of Science in Marketing</strong><br>
+    Iowa State University, Ames, IA<br>
+    Aug 2012 – May 2016<br>
+    GPA: 3.97/4.00
+  </li>
+</ul>
 
 <div style="text-align: center;">
   <h2>My Professional Adventures 🌎</h2>
 </div>
 
-### **Senior Demand Planner | Demand Planner – Prepared Foods & Dispensed Beverages**  
-📍 *Casey’s Store Support Center, Ankeny, IA*  
-📆 *Oct 2022 – Present*  
-- Spearheaded **12+ new product launches** across **2,500+ stores**, optimizing operational efficiency.  
-- Designed **strategies for a $600M business**, reducing stockouts, improving inventory accuracy, and minimizing product substitutions.  
-- Partnered with **vendors & stakeholders** to implement **data-driven solutions**, enhancing performance and business outcomes.  
-- Developed **key performance metrics** using advanced analytics, identifying optimization opportunities and delivering **actionable insights**.  
-- **Refined forecasting, inventory management, and logistics SOPs**, ensuring cost-effectiveness and efficiency.  
+<ul>
+  <li>
+    <strong>Senior Demand Planner | Demand Planner – Prepared Foods & Dispensed Beverages</strong><br>
+    📍 Casey’s Store Support Center, Ankeny, IA<br>
+    📆 Oct 2022 – Present<br>
+    - Spearheaded <strong>12+ new product launches</strong> across <strong>2,500+ stores</strong>, optimizing operational efficiency.<br>
+    - Designed <strong>strategies for a $600M business</strong>, reducing stockouts, improving inventory accuracy, and minimizing product substitutions.<br>
+    - Partnered with <strong>vendors & stakeholders</strong> to implement <strong>data-driven solutions</strong>, enhancing performance and business outcomes.<br>
+    - Developed <strong>key performance metrics</strong> using advanced analytics, identifying optimization opportunities and delivering <strong>actionable insights</strong>.<br>
+    - <strong>Refined forecasting, inventory management, and logistics SOPs</strong>, ensuring cost-effectiveness and efficiency.
+  </li>
 
-### **Buyer – Prepared Foods & Dispensed Beverages**  
-📍 *Casey’s Store Support Center, Ankeny, IA*  
-📆 *Feb 2021 – Sept 2022*  
-- Managed inventory for a **$400M business**, reducing waste by **20%** with data-driven **shelf-life tracking**.  
-- Led **process optimization initiatives**, enhancing order workflows and operational efficiency.  
-- Provided **training & mentorship** for junior buyers, fostering a culture of **continuous improvement**.  
+  <li>
+    <strong>Buyer – Prepared Foods & Dispensed Beverages</strong><br>
+    📍 Casey’s Store Support Center, Ankeny, IA<br>
+    📆 Feb 2021 – Sept 2022<br>
+    - Managed inventory for a <strong>$400M business</strong>, reducing waste by <strong>20%</strong> with data-driven <strong>shelf-life tracking</strong>.<br>
+    - Led <strong>process optimization initiatives</strong>, enhancing order workflows and operational efficiency.<br>
+    - Provided <strong>training & mentorship</strong> for junior buyers, fostering a culture of <strong>continuous improvement</strong>.
+  </li>
 
-### **Supply Chain Coordinator**  
-📍 *Pet Parents, Ankeny, IA*  
-📆 *July 2020 – Jan 2021*  
-- Oversaw **end-to-end supply chain operations**, including **vendor management, inventory optimization, and logistics coordination**.  
-- Developed **warehouse optimization strategies**, improving inventory placement and team efficiency.  
-- Enhanced **tracking and KPI analysis**, strengthening resource accessibility and performance.  
+  <li>
+    <strong>Supply Chain Coordinator</strong><br>
+    📍 Pet Parents, Ankeny, IA<br>
+    📆 July 2020 – Jan 2021<br>
+    - Oversaw <strong>end-to-end supply chain operations</strong>, including <strong>vendor management, inventory optimization, and logistics coordination</strong>.<br>
+    - Developed <strong>warehouse optimization strategies</strong>, improving inventory placement and team efficiency.<br>
+    - Enhanced <strong>tracking and KPI analysis</strong>, strengthening resource accessibility and performance.
+  </li>
 
-### **Inventory Analyst & Associate Buyer – Kids Apparel**  
-📍 *Target Inc., Minneapolis, MN*  
-📆 *Aug 2016 – June 2020*  
-- Co-managed a **$400M business**, improving **assortment strategy** and market share growth.  
-- Supported **seasonal launches & digital expansion** through analytical insights and process improvements.  
-- **Mentored junior analysts & buyers**, strengthening team capabilities and operational advancements.  
+  <li>
+    <strong>Inventory Analyst & Associate Buyer – Kids Apparel</strong><br>
+    📍 Target Inc., Minneapolis, MN<br>
+    📆 Aug 2016 – June 2020<br>
+    - Co-managed a <strong>$400M business</strong>, improving <strong>assortment strategy</strong> and market share growth.<br>
+    - Supported <strong>seasonal launches & digital expansion</strong> through analytical insights and process improvements.<br>
+    - <strong>Mentored junior analysts & buyers</strong>, strengthening team capabilities and operational advancements.
+  </li>
+</ul>
 
 <div style="text-align: center;">
   <h2>My Projects 💻</h2>
