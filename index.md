@@ -161,5 +161,5 @@ title: Anh H Nguyen
 <ul>
   <li>📧 <a href="mailto:anhnguyen824@gmail.com">Email</a></li>
   <li>🌍 <a href="https://linkedin.com/in/anhnguyen824">LinkedIn</a></li>
-  <li>🐙 <a href="https://github.com/anh-h-nguyen">GitHub</a></li>
+  <li>🐙 <a href="https://github.com/anh-h-nguyen?tab=repositories">GitHub</a></li>
 </ul>
