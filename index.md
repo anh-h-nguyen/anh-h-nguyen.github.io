@@ -103,55 +103,55 @@ title: Anh H Nguyen
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
   
   <div>
-    <h3><a href="https://github.com/anh-h-nguyen/dictionary">Dictionary Tool</a></h3>
+    <p style="text-align: center;"><strong><a href="https://github.com/anh-h-nguyen/dictionary">Dictionary Tool</a></strong></p>
     <p>Retrieves word definitions, synonyms, and translations using API calls for quick and efficient language assistance.</p>
   </div>
   
   <div>
-    <h3><a href="https://github.com/anh-h-nguyen/bored-api.git">Bored API Connector</a></h3>
+    <p style="text-align: center;"><strong><a href="https://github.com/anh-h-nguyen/bored-api.git">Bored API Connector</a></strong></p>
     <p>Suggests engaging activities using the Bored API when users need inspiration.</p>
   </div>
   
   <div>
-    <h3><a href="https://github.com/anh-h-nguyen/open-weather-api.git">OpenWeather API Connector</a></h3>
+    <p style="text-align: center;"><strong><a href="https://github.com/anh-h-nguyen/open-weather-api.git">OpenWeather API Connector</a></strong></p>
     <p>A weather forecasting tool that fetches real-time weather conditions, temperature, and forecasts using the OpenWeather API.</p>
   </div>
   
   <div>
-    <h3><a href="https://github.com/anh-h-nguyen/airline-passenger-satisfaction-analysis">Airline Passenger Satisfaction Analysis</a></h3>
+    <p style="text-align: center;"><strong><a href="https://github.com/anh-h-nguyen/airline-passenger-satisfaction-analysis">Airline Passenger Satisfaction Analysis</a></strong></p>
     <p>Analyzes airline passenger feedback using Power BI, uncovering trends in service quality, comfort, and overall satisfaction.</p>
   </div>
   
   <div>
-    <h3><a href="https://github.com/anh-h-nguyen/movie_recommendation_system">Movie Recommendation System</a></h3>
+    <p style="text-align: center;"><strong><a href="https://github.com/anh-h-nguyen/movie_recommendation_system">Movie Recommendation System</a></strong></p>
     <p>A personalized film suggestion engine using cosine similarity and TF-IDF vectorization to recommend movies based on user preferences.</p>
   </div>
   
   <div>
-    <h3><a href="https://github.com/anh-h-nguyen/hotel-recommendation-system">Hotel Recommendation System</a></h3>
+    <p style="text-align: center;"><strong><a href="https://github.com/anh-h-nguyen/hotel-recommendation-system">Hotel Recommendation System</a></strong></p>
     <p>A smart lodging advisor suggesting hotels based on user preferences, location, and amenities using machine learning algorithms.</p>
   </div>
   
   <div>
-    <h3><a href="https://github.com/anh-h-nguyen/white-house-visitor-logs.git">White House Visitor Departure Analysis</a></h3>
+    <p style="text-align: center;"><strong><a href="https://github.com/anh-h-nguyen/white-house-visitor-logs.git">White House Visitor Departure Analysis</a></strong></p>
     <p>Visualizes visitor departure patterns from the White House to identify trends and insights using data visualization techniques.</p>
   </div>
   
   <div>
-    <h3><a href="https://github.com/anh-h-nguyen/lottery_number_subscription_service.git">Lottery Number Subscription Service Visualizations on Power BI</a></h3>
+    <p style="text-align: center;"><strong><a href="https://github.com/anh-h-nguyen/lottery_number_subscription_service.git">Lottery Number Subscription Service Visualizations on Power BI</a></strong></p>
     <p>Interactive Power BI dashboard providing statistical insights into frequently drawn lottery numbers, encouraging informed number selection.</p>
   </div>
   
   <div>
-    <h3><a href="https://github.com/anh-h-nguyen/airport_accessibility_complaint_analysis.git">Airport Accessibility Complaint Analysis on Power BI</a></h3>
+    <p style="text-align: center;"><strong><a href="https://github.com/anh-h-nguyen/airport_accessibility_complaint_analysis.git">Airport Accessibility Complaint Analysis on Power BI</a></strong></p>
     <p>Visualizes complaints filed by travelers with disabilities, promoting awareness and advocacy for inclusive airport policies.</p>
   </div>
   
   <div>
-    <h3><a href="https://github.com/anh-h-nguyen/recipe_recommendation_system_ft_genai.git">Recipe Recommendation System ft. GenAI</a></h3>
+    <p style="text-align: center;"><strong><a href="https://github.com/anh-h-nguyen/recipe_recommendation_system_ft_genai.git">Recipe Recommendation System ft. GenAI</a></strong></p>
     <p>Generative AI-powered assistant that suggests structured, personalized recipes based on user-input ingredients and dietary preferences.</p>
   </div>
-  
+
 </div>
 
 <div style="text-align: center;">
