@@ -33,6 +33,6 @@ I’m continuously working to enhance my projects through:
 If you’d like to discuss collaboration opportunities, provide feedback, or just connect, feel free to reach out:   
 - 📧 <a href="mailto:anhnguyen824@gmail.com">Email</a>
 - 🌍 <a href="https://linkedin.com/in/anhnguyen824">LinkedIn</a>
-- 🐙 <a href="https://github.com/anh-h-nguyen">GitHub</a>
+- 🐙 <a href="https://github.com/anh-h-nguyen?tab=repositories">GitHub</a>
 
 Looking forward to creating innovative, impactful solutions together! 🚀  
