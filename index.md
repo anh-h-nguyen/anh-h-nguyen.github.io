@@ -108,9 +108,9 @@ title: Anh H Nguyen
   <li><a href="https://github.com/anh-h-nguyen/movie_recommendation_system">Movie Recommendation System</a></li>
   <li><a href="https://github.com/anh-h-nguyen/hotel-recommendation-system">Hotel Recommendation System</a></li>
   <li><a href="https://github.com/anh-h-nguyen/white-house-visitor-logs.git">White House Visitor Departure Analysis</a></li>
-  <li><a href="https://github.com/anh-h-nguyen/lottery_number_subscription_service.git">Lottery Number Subscription Service on PowerBI</a></li>
+  <li><a href="https://github.com/anh-h-nguyen/lottery_number_subscription_service.git">Lottery Number Subscription Service Visualizations on PowerBI</a></li>
+  <li><a href="https://github.com/anh-h-nguyen/airport_complaints_disability_call_to_action.git">Airport Complaints Related to Disabilities Visualizations on PowerBI</a></li>
   <li><a href="https://github.com/anh-h-nguyen/recipe_recommendation_system_ft_genai.git">Recipe Recommendation System ft. GenAI</a></li>
-  <li>[Project2 from DSC680 Applied Data Science]</li>
 </ul>
 
 <div style="text-align: center;">
